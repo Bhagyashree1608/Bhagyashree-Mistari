@@ -48,10 +48,10 @@
   <a href="https://github.com/Bhagyashree1608" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-BhagyashreeMistari-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="www.linkedin.com/in/bhagyashree-mistari-25b7992b2" target="_blank">  
+  <a href="https://www.linkedin.com/in/bhagyashree-mistari-25b7992b2/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-Bhagyashree-Mistari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:your.mistaribhagyashree@gmail.com">  
+  <a href="mailto:mistaribhagyashree@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
