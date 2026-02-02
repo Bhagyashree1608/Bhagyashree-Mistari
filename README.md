@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/GitHub-BhagyashreeMistari-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/bhagyashree-mistari-25b7992b2/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-Bhagyashree-Mistari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mistaribhagyashree@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
