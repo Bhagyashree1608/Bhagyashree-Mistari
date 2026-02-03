@@ -15,6 +15,35 @@
 </div>
 <br/>
 
+---
+
+
+## 🎓 Education
+
+### 🎓 Bachelor of Engineering – Information Technology  
+![College](https://img.shields.io/badge/College-Bharati%20Vidyapeeth%20College%20of%20Engineering%20for%20Women-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Pursuing-success?style=flat-square)
+
+- 📍 **Institution:** Bharati Vidyapeeth College of Engineering for Women, Pune
+- 🏫 **Branch:** Information Technology  
+- 📅 **Year:** 2024 – Present  
+- 🎯 **Focus Areas:** Web Development, Software Engineering, Databases  
+
+
+
+### 🎓 Diploma in Computer Engineering  
+![College](https://img.shields.io/badge/College-Government%20Polytechnic%20Jalgaon-blue?style=flat-square)
+![Grade](https://img.shields.io/badge/Grade-89.66%25-brightgreen?style=flat-square)
+
+- 🏫 **Institution:** Government Polytechnic, Jalgaon 
+- 🖥️ **Branch:** Computer Engineering  
+- 📅 **Duration:** 2021 – 2024  
+- 🏆 **Grade:** 89.66%  
+
+---
+
+
+
 ## 🛠️ Technical Skills
 
 ### 🧠 Programming Languages
@@ -42,6 +71,29 @@
 ### 💻 Tools & Platforms
 - Git
 - GitHub 
+
+---
+
+## 🏆 Achievements & Certifications
+
+🏅 **Best Project Team Award (Internship)**  
+– Awarded during industrial internship for outstanding teamwork and successful project implementation.
+
+🌟 **Outstanding Girl Award (Internship)**  
+– Recognized for exceptional performance, dedication, and overall contribution during the internship period.
+
+📜 **Web Development Certification**  
+– Certified in HTML, CSS, JavaScript, and full-stack web development fundamentals.
+
+📜 **Programming Fundamentals Certification**  
+– Validated technical skills in C, C++, and Java programming concepts.
+
+👩‍💻 **Industrial Training – Full Stack Java Development**  
+– Gained hands-on experience in real-world application development, backend logic, and team-based workflows.
+
+
+---
+
 
 ## 🤝 Connect With Me
 <p align="left">
