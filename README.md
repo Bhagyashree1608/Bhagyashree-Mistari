@@ -27,7 +27,7 @@
 - 📍 **Institution:** Bharati Vidyapeeth College of Engineering for Women, Pune
 - 🏫 **Branch:** Information Technology  
 - 📅 **Year:** 2024 – Present  
-- 🎯 **Focus Areas:** Web Development, Software Engineering, Databases  
+- 🎯 **Focus Areas:** Web Development, DSA, Software Engineering, Databases 
 
 
 
@@ -51,6 +51,7 @@
 - C++
 - Java
 - Python
+- JavaScript
 
 ### 🎨 Frontend
 - HTML5  
