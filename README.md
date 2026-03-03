@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <div>
-🎓 <b>Third Year BE IT Student </b> | Grade: <b> 9.32(SGPA)</b> <br/>
+🎓 <b>Third Year BE IT Student </b> | Grade: <b> 9.57(SGPA)</b> <br/>
 👩‍💻 I am a <b> Web Developer</b> focused on <b>full-stack development</b> using MERN and core web technologies</b>
 </div>
 <br/>
